@@ -5,13 +5,13 @@
 🤝 **I'm looking to collaborate on:** AgriTech innovations, AI for good, and scalable backend systems for real-world impact.<br><br>
 🧠 **I'm looking for help with:** Improving model accuracy for plant disease detection, mobile app integration, and multilingual support for rural communities.<br><br>
 💬 **Ask me about:** Backend development with Django, Firebase Realtime DB, WebSockets, or building smart IoT solutions.<br><br>
-⚽ **Fun fact:** I’m a Liverpool fan — “You’ll Never Walk Alone!” 🙌<br>
+☕ **Fun fact:**  I don’t run on coffee, I compile with it. 🙌<br>
 
 ---
 
 ## 🌐 Socials
 
-<a href="https://linkedin.com/in/MethusellaNyongesa" target="_blank">
+<a href="https://www.linkedin.com/in/methusella-nyongesa-b94a63259/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;
 
