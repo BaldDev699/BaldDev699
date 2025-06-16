@@ -1,12 +1,15 @@
 # 💫 About Me:
-### 👋 Hi there, I'm Methusella<br><br>- 🔭 **I'm currently working on:** CropAI — an AI-powered crop disease diagnosis system specifically designed for smallholder farmers..<br><br>- 🤝 **I'm looking to collaborate on:** AgriTech innovations, AI for good, and scalable backend systems for real-world impact.<br><br>- 🧠 **I'm looking for help with:** Improving model accuracy for plant disease detection, mobile app integration, and multilingual support for rural communities.
+### 👋 Hi there, I'm Methusella<br><br> 🔭 **I'm currently working on:** CropAI — an AI-powered crop disease diagnosis system specifically designed for smallholder farmers..<br><br> 🤝 **I'm looking to collaborate on:** AgriTech innovations, AI for good, and scalable backend systems for real-world impact.<br><br> 🧠 **I'm looking for help with:** Improving model accuracy for plant disease detection, mobile app integration, and multilingual support for rural communities.
 💬 **Ask me about:** Backend development with Django, Firebase Realtime DB, WebSockets, or building smart IoT solutions.<br><br>- ⚽ **Fun fact:** I’m a Liverpool fan — “You’ll Never Walk Alone!” 🙌<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Methusella Nyongesa) 
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@meth699) 
+
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@meth699) 
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:methusellanyongesa057@gmail.com) 
 
 # 💻 Tech Stack:
