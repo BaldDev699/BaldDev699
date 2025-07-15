@@ -1,11 +1,6 @@
 # 💫 About Me:
 ### 👋 Hi there, I'm Methusella
 
-🤝 **I'm looking to collaborate on:** AgriTech innovations, AI for good, and scalable backend systems for real-world impact.<br><br>
-🧠 **I'm looking for help with:** Improving model accuracy for plant disease detection, mobile app integration, and multilingual support for rural communities.<br><br>
-💬 **Ask me about:** Backend development with Django, Firebase Realtime DB, WebSockets, or building smart IoT solutions.<br><br>
-☕ **Fun fact:**  I don’t run on coffee, I compile with it. 🙌<br>
-
 ---
 
 ## 🌐 Socials
