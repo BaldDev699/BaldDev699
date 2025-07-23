@@ -60,7 +60,12 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BaldDev699&theme=dark&hide_border=false)<br/>
-![](https://streak-stats.demolab.com?user=BaldDev699&theme=dark&hide_border=false)<br/>
+<!-- Primary Streak Card -->
+![GitHub Streak](https://streak-stats.demolab.com?user=BaldDev699&theme=dark&hide_border=false)
+
+<!-- Fallback (if DemoLab fails) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaldDev699&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaldDev699&theme=dark&hide_border=false&layout=compact)
 
 ---
